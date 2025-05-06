@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 - 🐍 Python development (8+ years)
 - 🤖 Machine learning & statistical analysis
 - 📊 Data visualization & processing 
-- ☁️ Cloud computing (AWS, Azure)
-- 🌐 Big data infrastructure
 
 ## About Me
 
