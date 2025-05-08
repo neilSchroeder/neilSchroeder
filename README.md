@@ -11,7 +11,7 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Ie1EchUAAAAJ)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
 
-## Physics ➡️ Data Science ➡️ Climate Tech
+## [Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)
 
 🔭 **Currently:** Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/), leading a team co-developing the [Cal-Adapt: Analytics Engine](https://analytics.cal-adapt.org/): an open-source software project focused on providing climate data access software and scientific analysis notebooks that drive policy decisions in California. 
 
