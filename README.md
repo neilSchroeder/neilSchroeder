@@ -2,7 +2,7 @@
 **neilSchroeder/neilSchroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<div align="center">
+<div align="center" style="max-width: 800px; margin: 0 auto;">
 
 # Neil Schroeder, Ph.D. (he/him) 👋
 
@@ -19,7 +19,8 @@
 
 ## [Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)
 
-🔭 **Currently:** Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/), leading a team co-developing the [Cal-Adapt: Analytics Engine](https://analytics.cal-adapt.org/): an open-source software project focused on providing climate data access software and scientific analysis notebooks that drive policy decisions in California. 
+### 🔭 **Currently:** 
+Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/), leading a team co-developing the [Cal-Adapt: Analytics Engine](https://analytics.cal-adapt.org/): an open-source software project focused on providing climate data access software and scientific analysis notebooks that drive policy decisions in California. 
 
 ### 🧠 **Previously:** 
 🏦 Sr. Data Scientist at Huntington National Bank, designing data-driven marketing strategies for large lending portfolios<br>
