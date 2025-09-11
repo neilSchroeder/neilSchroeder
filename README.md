@@ -43,11 +43,7 @@ I grew up outside and have always had a vested interest in "leave no trace," whi
 
 When I'm not coding, you'll find me 🧗 bouldering, 🥏 playing disc golf, 👨‍🍳 cooking, or 🚐🛫 traveling!
 
-## Let's Connect!
-
-🔗 [LinkedIn](https://linkedin.com/in/nschroed/)  
-
----
+## Let's Connect! 🔗 [LinkedIn](https://linkedin.com/in/nschroed/)  
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,25:059669,50:0F766E,75:1D4ED8,100:1E3A8A&height=150&section=footer&text=Using%20data%20to%20build%20a%20more%20sustainable%20future%2C%20one%20algorithm%20at%20a%20time&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
