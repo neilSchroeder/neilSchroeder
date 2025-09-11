@@ -29,7 +29,7 @@ climate data access software and scientific analysis notebooks that drive policy
 decisions in California. 
 
 ### 🧠 **Previously:** 
-🏦 Sr. Data Scientist at Huntington National Bank, designing   
+🏦 Sr. Data Scientist at Huntington National Bank, designing    
 data-driven marketing strategies for large lending portfolios<br><br>
 🌽 Machine Learning Engineer at [Sentera](https://sentera.com/), developing real-time   
 computer vision solutions for agriculture<br>
