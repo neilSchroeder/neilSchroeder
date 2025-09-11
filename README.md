@@ -2,6 +2,7 @@
 **neilSchroeder/neilSchroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+<div align="center">
 
 # Neil Schroeder, Ph.D. (he/him) 👋
 
@@ -45,3 +46,5 @@ When I'm not coding, you'll find me 🧗 bouldering, 🥏 playing disc golf, �
 ---
 
 *"Using data to build a more sustainable future, one algorithm at a time."*
+
+</div>
