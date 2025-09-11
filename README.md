@@ -5,6 +5,10 @@
 
 # Neil Schroeder, Ph.D. (he/him) 👋
 
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![GitLab](https://img.shields.io/static/v1?label=GitLab&message=nschroed&color=FC6D26&style=flat-square&logo=gitlab)](https://gitlab.cern.ch/nschroed)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2176-0530&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8336-6141)
