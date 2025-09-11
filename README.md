@@ -37,7 +37,7 @@ Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/),
 
 ## About Me
 
-Hello, and welcome! My name is Neil, and I have a PhD in high energy physics. My PhD thesis focused on calibration software and how it lead to a precision mass measurement of the Higgs boson performed in collaboration with the Compact Muon Solenoid (CMS) experiment at the European Center for Nuclear Research's (CERN) Large Hadron Collider (LHC). Which is all together too many acronyms, and a mouthful and a half. 
+Hello, and welcome! My name is Neil, and I have a PhD in high energy physics. My PhD thesis focused on calibration software and lead to a precision mass measurement of the Higgs boson performed in collaboration with the Compact Muon Solenoid (CMS) experiment at the European Center for Nuclear Research's (CERN) Large Hadron Collider (LHC). Which is all together too many acronyms, and a mouthful and a half. 
 
 I grew up outside and have always had a vested interest in "leave no trace," which is how I got interested in climate tech. 
 
