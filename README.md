@@ -29,9 +29,12 @@ climate data access software and scientific analysis notebooks that drive policy
 decisions in California. 
 
 ### 🧠 **Previously:** 
-🏦 Sr. Data Scientist at Huntington National Bank, designing data-driven marketing strategies for large lending portfolios<br>
-🌽 Machine Learning Engineer at [Sentera](https://sentera.com/), developing real-time computer vision solutions for agriculture<br>
-🔬 High Energy Physics Researcher at [CERN](https://home.cern/), modernizing calibration software and making precision measurements of particles
+🏦 Sr. Data Scientist at Huntington National Bank, designing data-driven marketing   
+strategies for large lending portfolios<br>
+🌽 Machine Learning Engineer at [Sentera](https://sentera.com/), developing real-time computer vision   
+solutions for agriculture<br>
+🔬 High Energy Physics Researcher at [CERN](https://home.cern/), modernizing calibration software and making  
+precision measurements of particles
 
 ### 💡 **Expertise:**
 🐍 Python development (8+ years)<br>
