@@ -23,7 +23,8 @@
 ## [Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)
 
 ### 🔭 **Currently:** 
-Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/), leading a team co-developing the [Cal-Adapt: Analytics Engine](https://analytics.cal-adapt.org/): an open-source software project focused on providing climate data access software and scientific analysis notebooks that drive policy decisions in California. 
+Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/), leading  
+a team co-developing the [Cal-Adapt: Analytics Engine](https://analytics.cal-adapt.org/): an open-source software project focused on providing climate data access software and scientific analysis notebooks that drive policy decisions in California. 
 
 ### 🧠 **Previously:** 
 🏦 Sr. Data Scientist at Huntington National Bank, designing data-driven marketing strategies for large lending portfolios<br>
