@@ -2,7 +2,7 @@
 **neilSchroeder/neilSchroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<div align="center" style="max-width: 400px; margin: 0 auto;">
+<div align="center" style="max-width: 200px; margin: 0 auto;">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,25:1D4ED8,50:0F766E,75:059669,100:10B981&height=200&section=header&text=Neil%20Schroeder%2C%20Ph.D.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20software%20solutions%20for%20climate%20research&descSize=18&descAlignY=55" />
