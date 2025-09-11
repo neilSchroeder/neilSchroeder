@@ -30,10 +30,10 @@ decisions in California.
 
 ### 🧠 **Previously:** 
 🏦 Sr. Data Scientist at Huntington National Bank, designing 
- 
+
 data-driven marketing strategies for large lending portfolios<br><br>
-🌽 Machine Learning Engineer at [Sentera](https://sentera.com/), developing real-time   
-computer vision solutions for agriculture<br>
+🌽 Machine Learning Engineer at [Sentera](https://sentera.com/), developing   
+real-time computer vision solutions for agriculture<br>
 🔬 High Energy Physics Researcher at [CERN](https://home.cern/), modernizing calibration software and making  
 precision measurements of particles
 
