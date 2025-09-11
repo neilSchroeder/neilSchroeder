@@ -12,7 +12,7 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Ie1EchUAAAAJ)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
 
-<div align="left">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
@@ -22,8 +22,8 @@
 🔭 **Currently:** Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/), leading a team co-developing the [Cal-Adapt: Analytics Engine](https://analytics.cal-adapt.org/): an open-source software project focused on providing climate data access software and scientific analysis notebooks that drive policy decisions in California. 
 
 ### 🧠 **Previously:** 
-🏦 Sr. Data Scientist at Huntington National Bank, designing data-driven marketing strategies for large lending portfolios
-🌽 Machine Learning Engineer at [Sentera](https://sentera.com/), developing real-time computer vision solutions for agriculture
+🏦 Sr. Data Scientist at Huntington National Bank, designing data-driven marketing strategies for large lending portfolios<br>
+🌽 Machine Learning Engineer at [Sentera](https://sentera.com/), developing real-time computer vision solutions for agriculture<br>
 🔬 High Energy Physics Researcher at [CERN](https://home.cern/), modernizing calibration software and making precision measurements of particles
 
 ### 💡 **Expertise:**
