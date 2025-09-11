@@ -2,7 +2,7 @@
 **neilSchroeder/neilSchroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<div align="center" style="max-width: 800px; margin: 0 auto;">
+<div align="center" style="max-width: 400px; margin: 0 auto;">
 
 # Neil Schroeder, Ph.D. (he/him) 👋
 
