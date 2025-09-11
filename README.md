@@ -14,13 +14,9 @@
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2176-0530&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8336-6141)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Ie1EchUAAAAJ)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;" />
 </div>
 
 
