@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; height: auto;" />
 </div>
 
 
