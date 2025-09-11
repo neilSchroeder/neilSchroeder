@@ -11,7 +11,7 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Ie1EchUAAAAJ)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
