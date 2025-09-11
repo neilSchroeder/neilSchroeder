@@ -27,9 +27,9 @@
 🔬 High Energy Physics Researcher at [CERN](https://home.cern/), modernizing calibration software and making precision measurements of particles
 
 ### 💡 **Expertise:**
-🐍 Python development (8+ years)
-🤖 Machine learning & statistical analysis
-📊 Data visualization & processing 
+🐍 Python development (8+ years)<br>
+🤖 Machine learning & statistical analysis<br>
+📊 Data visualization & processing
 
 ## About Me
 
