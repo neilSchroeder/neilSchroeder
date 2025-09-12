@@ -15,8 +15,12 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Ie1EchUAAAAJ)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="display: inline-block; margin-right: 10px; height: 195px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages" style="display: inline-block; height: 195px;" />
+      // Option 1: GitHub Activity Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neilSchroeder&theme=react-dark" />
+
+  // Option 2: GitHub Streak Stats  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilSchroeder&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages" style="display: inline-block; height: 195px;" />
 </div>
 
 
