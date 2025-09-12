@@ -17,8 +17,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" style="display: inline-block; margin-right: 10px; height: 195px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" style="display: inline-block; height: 195px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilSchroeder&theme=radical" style="display: inline-block; margin-right: 10px; height: 153px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neilSchroeder&theme=react-dark" style="display: inline-block; margin-right: 10px; height: 153px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilSchroeder&theme=radical" style="display: inline-block; margin-right: 10px; height: 152px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neilSchroeder&theme=react-dark" style="display: inline-block; margin-right: 10px; height: 152px;"/>
 </div>
 
 
