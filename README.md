@@ -22,7 +22,7 @@
 </div>
 
 
-## [Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)
+## ⚛️[Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)🌎
 
 ### 🔭 **Currently:** 
 Sr. Python Developer at [Eagle Rock Analytics](https://eaglerockanalytics.com/), leading a team co-developing the   
