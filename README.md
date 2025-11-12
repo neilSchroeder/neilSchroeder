@@ -10,7 +10,6 @@
 
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
-[![GitLab](https://img.shields.io/static/v1?label=GitLab&message=nschroed&color=FC6D26&style=flat-square&logo=gitlab)](https://gitlab.cern.ch/nschroed)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2176-0530&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8336-6141)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Ie1EchUAAAAJ)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
