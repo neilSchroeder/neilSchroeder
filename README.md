@@ -16,7 +16,18 @@
 ### 📊 Recent Contributions
 
 <!--START_SECTION:contributions-->
-_Contributions will be auto-updated by GitHub Actions_
+| | Repository | Activity | Language |
+|---|---|---|---|
+| 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
+| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
+| 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
+| 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
+| 🐍 | [lithops]() | activity | `Python`
+| 📁 | [.github](https://github.com/Eagle-Rock-Analytics/.github) | activity |
+| 🐍 | [climakitaegui](https://github.com/cal-adapt/climakitaegui) | activity | `Python`
+
+<sub>Last updated: December 03, 2025</sub>
 <!--END_SECTION:contributions-->
 
 ## ⚛️[Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)🌎
