@@ -2,6 +2,7 @@
 """
 Fetches unique repositories the user has contributed to in the last year
 and updates the README with a formatted list.
+Also fetches Minneapolis radar imagery from NWS.
 """
 
 import os
@@ -17,9 +18,14 @@ HEADERS = {
     "Accept": "application/vnd.github.v3+json",
 }
 
-# Markers in README where we'll insert the contribution list
+# Markers in README where we'll insert content
 START_MARKER = "<!--START_SECTION:contributions-->"
 END_MARKER = "<!--END_SECTION:contributions-->"
+RADAR_START_MARKER = "<!--START_SECTION:radar-->"
+RADAR_END_MARKER = "<!--END_SECTION:radar-->"
+
+# Minneapolis radar station
+RADAR_STATION = "KMPX"
 
 
 def get_contribution_events():
@@ -156,32 +162,32 @@ def format_contributions(repos):
     return table + footer
 
 
-def update_readme(content):
-    """Update the README file with new contribution content."""
+def update_readme(content, start_marker, end_marker):
+    """Update the README file with new content between markers."""
     readme_path = "README.md"
 
-    with open(readme_path, "r") as f:
+    with open(readme_path, "r", encoding="utf-8") as f:
         readme = f.read()
 
     # Check if markers exist
-    if START_MARKER not in readme:
-        print("Start marker not found in README. Please add the markers.")
+    if start_marker not in readme:
+        print(f"Start marker {start_marker} not found in README. Skipping.")
         return False
 
-    if END_MARKER not in readme:
-        print("End marker not found in README. Please add the markers.")
+    if end_marker not in readme:
+        print(f"End marker {end_marker} not found in README. Skipping.")
         return False
 
     # Replace content between markers
-    pattern = f"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}"
-    replacement = f"{START_MARKER}\n{content}\n{END_MARKER}"
+    pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
+    replacement = f"{start_marker}\n{content}\n{end_marker}"
 
     new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
 
-    with open(readme_path, "w") as f:
+    with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_readme)
 
-    print("README updated successfully!")
+    print(f"README updated successfully for {start_marker}!")
     return True
 
 
@@ -191,7 +197,35 @@ def main():
     print(f"Found {len(repos)} unique repositories with contributions")
 
     content = format_contributions(repos)
-    update_readme(content)
+    update_readme(content, START_MARKER, END_MARKER)
+
+    # Update radar section
+    radar_content = format_radar()
+    update_readme(radar_content, RADAR_START_MARKER, RADAR_END_MARKER)
+
+
+def format_radar():
+    """Generate the radar section with current Minneapolis radar."""
+    # NWS radar image URL - this is a static URL that always shows the latest
+    # Using the standard composite reflectivity image
+    radar_url = f"https://radar.weather.gov/ridge/standard/{RADAR_STATION}_loop.gif"
+
+    # Alternative: static image (updates every ~5 min on NWS side)
+    static_radar = f"https://radar.weather.gov/ridge/standard/{RADAR_STATION}_0.gif"
+
+    updated = datetime.now().strftime("%B %d, %Y at %H:%M UTC")
+
+    content = f"""<div align="center">
+
+[![Minneapolis Radar]({static_radar})](https://radar.weather.gov/station/{RADAR_STATION}/standard)
+
+🌧️ **Live Minneapolis Radar** ([KMPX](https://radar.weather.gov/station/{RADAR_STATION}/standard)) | [Full Animation]({radar_url})
+
+</div>
+
+<sub>Radar imagery from [NOAA/NWS](https://www.weather.gov/) • README updated: {updated}</sub>"""
+
+    return content
 
 
 if __name__ == "__main__":
