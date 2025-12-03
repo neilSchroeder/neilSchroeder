@@ -210,23 +210,15 @@ def main():
 def format_radar():
     """Generate the radar section with current Minneapolis radar."""
     # NWS radar image URL - this is a static URL that always shows the latest
-    # Using the standard composite reflectivity image
     radar_url = f"https://radar.weather.gov/ridge/standard/{RADAR_STATION}_loop.gif"
-
-    # Alternative: static image (updates every ~5 min on NWS side)
     static_radar = f"https://radar.weather.gov/ridge/standard/{RADAR_STATION}_0.gif"
 
-    updated = datetime.now().strftime("%B %d, %Y at %H:%M UTC")
+    # Compact format for table cell layout
+    content = f"""[![Minneapolis Radar]({static_radar})](https://radar.weather.gov/station/{RADAR_STATION}/standard)
 
-    content = f"""<div align="center">
+[KMPX](https://radar.weather.gov/station/{RADAR_STATION}/standard) | [Animation]({radar_url})
 
-[![Minneapolis Radar]({static_radar})](https://radar.weather.gov/station/{RADAR_STATION}/standard)
-
-🌧️ **Live Minneapolis Radar** ([KMPX](https://radar.weather.gov/station/{RADAR_STATION}/standard)) | [Full Animation]({radar_url})
-
-</div>
-
-<sub>Radar imagery from [NOAA/NWS](https://www.weather.gov/) • README updated: {updated}</sub>"""
+<sub>Radar from [NOAA/NWS](https://www.weather.gov/)</sub>"""
 
     return content
 

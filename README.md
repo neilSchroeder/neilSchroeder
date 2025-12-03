@@ -13,6 +13,11 @@
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2176-0530&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8336-6141)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
 
+<!-- Side-by-side: Contributions + Radar -->
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ### 📊 Recent Contributions
 
 <!--START_SECTION:contributions-->
@@ -29,6 +34,23 @@
 
 <sub>Last updated: December 03, 2025</sub>
 <!--END_SECTION:contributions-->
+
+</td>
+<td valign="top" width="45%">
+
+### 🌧️ Minneapolis Radar
+
+<!--START_SECTION:radar-->
+[![Minneapolis Radar](https://radar.weather.gov/ridge/standard/KMPX_0.gif)](https://radar.weather.gov/station/KMPX/standard)
+
+[KMPX](https://radar.weather.gov/station/KMPX/standard) | [Animation](https://radar.weather.gov/ridge/standard/KMPX_loop.gif)
+
+<sub>Radar from [NOAA/NWS](https://www.weather.gov/)</sub>
+<!--END_SECTION:radar-->
+
+</td>
+</tr>
+</table>
 
 ## ⚛️[Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)🌎
 
@@ -59,6 +81,7 @@ I grew up outside and have always had a vested interest in "leave no trace," whi
 
 When I'm not coding, you'll find me 🧗 bouldering, 🥏 playing disc golf, 👨‍🍳 cooking, or 🚐🛫 traveling!
 
+<<<<<<< Updated upstream
 ### 🌧️ Minneapolis Weather Radar
 
 <!--START_SECTION:radar-->
@@ -73,6 +96,8 @@ When I'm not coding, you'll find me 🧗 bouldering, 🥏 playing disc golf, �
 <sub>Radar imagery from [NOAA/NWS](https://www.weather.gov/) • README updated: December 03, 2025 at 22:14 UTC</sub>
 <!--END_SECTION:radar-->
 
+=======
+>>>>>>> Stashed changes
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,25:059669,50:0F766E,75:1D4ED8,100:1E3A8A&height=150&section=footer&text=Using%20data%20to%20build%20a%20more%20sustainable%20future%2C%20one%20algorithm%20at%20a%20time&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
