@@ -85,15 +85,11 @@ When I'm not coding, you'll find me 🧗 bouldering, 🥏 playing disc golf, �
 ### 🌧️ Minneapolis Weather Radar
 
 <!--START_SECTION:radar-->
-<div align="center">
-
 [![Minneapolis Radar](https://radar.weather.gov/ridge/standard/KMPX_0.gif)](https://radar.weather.gov/station/KMPX/standard)
 
-🌧️ **Live Minneapolis Radar** ([KMPX](https://radar.weather.gov/station/KMPX/standard)) | [Full Animation](https://radar.weather.gov/ridge/standard/KMPX_loop.gif)
+[KMPX](https://radar.weather.gov/station/KMPX/standard) | [Animation](https://radar.weather.gov/ridge/standard/KMPX_loop.gif)
 
-</div>
-
-<sub>Radar imagery from [NOAA/NWS](https://www.weather.gov/) • README updated: December 03, 2025 at 22:14 UTC</sub>
+<sub>Radar from [NOAA/NWS](https://www.weather.gov/)</sub>
 <!--END_SECTION:radar-->
 
 =======
