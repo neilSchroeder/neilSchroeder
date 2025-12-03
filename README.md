@@ -70,7 +70,7 @@ When I'm not coding, you'll find me 🧗 bouldering, 🥏 playing disc golf, �
 
 </div>
 
-<sub>Radar imagery from [NOAA/NWS](https://www.weather.gov/)</sub>
+<sub>Radar imagery from [NOAA/NWS](https://www.weather.gov/) • README updated: December 03, 2025 at 22:14 UTC</sub>
 <!--END_SECTION:radar-->
 
 
