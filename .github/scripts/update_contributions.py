@@ -46,7 +46,10 @@ def get_contribution_events():
     page = 1
     while page <= 10:  # GitHub API limits to 10 pages (300 events max)
         response = requests.get(
-            events_url, headers=HEADERS, params={"per_page": 30, "page": page}
+            events_url,
+            headers=HEADERS,
+            params={"per_page": 30, "page": page},
+            timeout=30,
         )
 
         if response.status_code != 200:
@@ -91,7 +94,7 @@ def get_contribution_events():
 def get_repo_details(repo_full_name):
     """Fetch repository details like description and language."""
     repo_url = f"https://api.github.com/repos/{repo_full_name}"
-    response = requests.get(repo_url, headers=HEADERS)
+    response = requests.get(repo_url, headers=HEADERS, timeout=30)
 
     if response.status_code == 200:
         data = response.json()
@@ -120,7 +123,7 @@ def format_contributions(repos):
         details = get_repo_details(repo_name)
 
         # Format: repo name with link, language badge, brief stats
-        owner, name = repo_name.split("/")
+        _, name = repo_name.split("/")
 
         # Create activity summary
         activity_parts = []
