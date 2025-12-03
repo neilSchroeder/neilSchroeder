@@ -12,13 +12,12 @@
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2176-0530&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8336-6141)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nschroed/)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neilSchroeder&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" style="display: inline-block; margin-right: 10px; height: 195px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilSchroeder&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" style="display: inline-block; height: 195px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilSchroeder&theme=radical" style="display: inline-block; margin-right: 10px; height: 152px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neilSchroeder&theme=react-dark" style="display: inline-block; margin-right: 10px; height: 152px;"/>
-</div>
 
+### 📊 Recent Contributions
+
+<!--START_SECTION:contributions-->
+_Contributions will be auto-updated by GitHub Actions_
+<!--END_SECTION:contributions-->
 
 ## ⚛️[Physics](https://www.sciencedirect.com/science/article/pii/S037026932030229X) ➡️ Data Science ➡️ [Climate Tech](https://analytics.cal-adapt.org/)🌎
 
