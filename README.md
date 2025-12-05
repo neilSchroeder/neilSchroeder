@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
+| 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
@@ -32,7 +32,7 @@
 | 📁 | [.github](https://github.com/Eagle-Rock-Analytics/.github) | activity |
 | 🐍 | [climakitaegui](https://github.com/cal-adapt/climakitaegui) | activity | `Python`
 
-<sub>Last updated: December 04, 2025</sub>
+<sub>Last updated: December 05, 2025</sub>
 <!--END_SECTION:contributions-->
 
 </td>
