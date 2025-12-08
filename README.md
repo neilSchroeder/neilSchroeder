@@ -32,7 +32,7 @@
 | 📁 | [.github](https://github.com/Eagle-Rock-Analytics/.github) | activity |
 | 🐍 | [climakitaegui](https://github.com/cal-adapt/climakitaegui) | activity | `Python`
 
-<sub>Last updated: December 07, 2025</sub>
+<sub>Last updated: December 08, 2025</sub>
 <!--END_SECTION:contributions-->
 
 </td>
