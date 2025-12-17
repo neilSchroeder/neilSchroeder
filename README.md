@@ -30,7 +30,7 @@
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 🐍 | [lithops]() | activity | `Python`
 | 📁 | [.github](https://github.com/Eagle-Rock-Analytics/.github) | activity |
-| 🐍 | [climakitaegui](https://github.com/cal-adapt/climakitaegui) | activity | `Python`
+| 🐍 | [climakitaegui]() | activity | `Python`
 
 <sub>Last updated: December 17, 2025</sub>
 <!--END_SECTION:contributions-->
