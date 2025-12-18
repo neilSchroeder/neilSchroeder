@@ -23,9 +23,9 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 8 PRs | `Python`
 | 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 🐍 | [lithops]() | activity | `Python`
