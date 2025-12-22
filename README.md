@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [cal-adapt-3.0]() | activity | `TypeScript`
 | 🐍 | [intake-esm-tools]() | activity | `Python`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 5 PRs | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
@@ -30,7 +31,6 @@
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 🐍 | [lithops]() | activity | `Python`
-| 📁 | [.github](https://github.com/Eagle-Rock-Analytics/.github) | activity |
 
 <sub>Last updated: December 22, 2025</sub>
 <!--END_SECTION:contributions-->
