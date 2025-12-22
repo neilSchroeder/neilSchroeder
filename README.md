@@ -24,7 +24,7 @@
 | | Repository | Activity | Language |
 |---|---|---|---|
 | 🐍 | [intake-esm-tools]() | activity | `Python`
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 5 PRs | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
 | 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
