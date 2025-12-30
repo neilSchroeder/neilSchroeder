@@ -23,13 +23,13 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 5 PRs | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
 | 📁 | [cal-adapt-3.0]() | activity |
 | 🐍 | [intake-esm-tools]() | activity | `Python`
 | 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
-| 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
+| 🐍 | [cubed]() | activity | `Python`
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 
 <sub>Last updated: December 30, 2025</sub>
