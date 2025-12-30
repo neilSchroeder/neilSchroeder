@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 📁 | [tofu_era]() | activity | `HCL`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
@@ -30,7 +31,6 @@
 | 📁 | [cal-adapt-3.0]() | activity |
 | 🐍 | [intake-esm-tools]() | activity | `Python`
 | 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
-| 🐍 | [cubed]() | activity | `Python`
 
 <sub>Last updated: December 30, 2025</sub>
 <!--END_SECTION:contributions-->
