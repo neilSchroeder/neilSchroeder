@@ -30,7 +30,7 @@
 | 🐍 | [intake-esm-tools]() | activity | `Python`
 | 📁 | [neilSchroeder](https://github.com/neilSchroeder/neilSchroeder) | activity |
 | 🐍 | [cubed]() | activity | `Python`
-| 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
+| 📁 | [cubed]() | activity |
 
 <sub>Last updated: December 30, 2025</sub>
 <!--END_SECTION:contributions-->
