@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
+| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 📁 | [tofu_era]() | activity | `HCL`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
