@@ -23,10 +23,10 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🐍 | [demo-sales-forecast](https://github.com/neilSchroeder/demo-sales-forecast) | activity | `Python`
+| 🐍 | [demo-data-pipeline](https://github.com/neilSchroeder/demo-data-pipeline) | activity | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🐍 | [demo-customer-segmentation](https://github.com/neilSchroeder/demo-customer-segmentation) | activity | `Python`
-| 📁 | [demo-data-pipeline]() | activity |
-| 📁 | [demo-sales-forecast]() | activity |
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
