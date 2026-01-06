@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 6 PRs | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 5 PRs | `Python`
 | 🐍 | [demo-sales-forecast](https://github.com/neilSchroeder/demo-sales-forecast) | activity | `Python`
 | 🐍 | [demo-data-pipeline](https://github.com/neilSchroeder/demo-data-pipeline) | activity | `Python`
 | 🐍 | [demo-customer-segmentation](https://github.com/neilSchroeder/demo-customer-segmentation) | activity | `Python`
