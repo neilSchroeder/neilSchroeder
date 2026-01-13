@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 1 PRs | `Python`
+| 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 🐍 | [VirtualiZarr](https://github.com/neilSchroeder/VirtualiZarr) | activity | `Python`
