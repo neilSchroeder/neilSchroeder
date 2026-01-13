@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 🐍 | [VirtualiZarr](https://github.com/neilSchroeder/VirtualiZarr) | activity | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
@@ -30,7 +31,6 @@
 | 🐍 | [demo-sales-forecast](https://github.com/neilSchroeder/demo-sales-forecast) | activity | `Python`
 | 🐍 | [demo-data-pipeline](https://github.com/neilSchroeder/demo-data-pipeline) | activity | `Python`
 | 🐍 | [demo-customer-segmentation](https://github.com/neilSchroeder/demo-customer-segmentation) | activity | `Python`
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 
 <sub>Last updated: January 13, 2026</sub>
 <!--END_SECTION:contributions-->
