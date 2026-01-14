@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
+| 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
