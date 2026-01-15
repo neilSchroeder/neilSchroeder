@@ -23,14 +23,13 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
+| 🐍 | [climakitae]() | activity | `Python`
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
+| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 🐍 | [VirtualiZarr](https://github.com/neilSchroeder/VirtualiZarr) | activity | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
-| 🐍 | [demo-sales-forecast](https://github.com/neilSchroeder/demo-sales-forecast) | activity | `Python`
 
 <sub>Last updated: January 15, 2026</sub>
 <!--END_SECTION:contributions-->
