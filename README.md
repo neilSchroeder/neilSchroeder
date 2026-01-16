@@ -23,9 +23,9 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 📁 | [lithops]() | activity |
+| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 1 PRs | `Python`
+| 📁 | [lithops](https://github.com/neilSchroeder/lithops) | activity |
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
-| 🐍 | [lithops]() | activity | `Python`
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
