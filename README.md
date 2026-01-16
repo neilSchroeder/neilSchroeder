@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📁 | [lithops]() | activity |
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 🐍 | [lithops]() | activity | `Python`
 | 🐍 | [cubed](https://github.com/cubed-dev/cubed) | 2 PRs | `Python`
@@ -30,7 +31,6 @@
 | 📁 | [cubed](https://github.com/neilSchroeder/cubed) | activity |
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [VirtualiZarr](https://github.com/neilSchroeder/VirtualiZarr) | activity | `Python`
-| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 
 <sub>Last updated: January 16, 2026</sub>
 <!--END_SECTION:contributions-->
