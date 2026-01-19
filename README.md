@@ -32,7 +32,7 @@
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [VirtualiZarr](https://github.com/neilSchroeder/VirtualiZarr) | activity | `Python`
 
-<sub>Last updated: January 18, 2026</sub>
+<sub>Last updated: January 19, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
