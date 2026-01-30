@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
+| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🐍 | [open-data-registry](https://github.com/awslabs/open-data-registry) | 1 PRs | `Python`
