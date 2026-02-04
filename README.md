@@ -23,10 +23,10 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [open-data-registry](https://github.com/awslabs/open-data-registry) | 1 PRs | `Python`
 | 🐍 | [open-data-registry](https://github.com/neilSchroeder/open-data-registry) | activity | `Python`
 | 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 5 PRs | `Python`
