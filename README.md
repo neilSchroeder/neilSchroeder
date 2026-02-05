@@ -29,7 +29,7 @@
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
 | 🐍 | [open-data-registry](https://github.com/awslabs/open-data-registry) | 1 PRs | `Python`
 | 🐍 | [open-data-registry](https://github.com/neilSchroeder/open-data-registry) | activity | `Python`
-| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 4 PRs | `Python`
+| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 5 PRs | `Python`
 | 🐍 | [lithops](https://github.com/neilSchroeder/lithops) | activity | `Python`
 
 <sub>Last updated: February 05, 2026</sub>
