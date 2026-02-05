@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [Browzarr]() | activity | `TypeScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
@@ -30,7 +31,6 @@
 | 🐍 | [open-data-registry](https://github.com/awslabs/open-data-registry) | 1 PRs | `Python`
 | 🐍 | [open-data-registry](https://github.com/neilSchroeder/open-data-registry) | activity | `Python`
 | 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 5 PRs | `Python`
-| 🐍 | [lithops](https://github.com/neilSchroeder/lithops) | activity | `Python`
 
 <sub>Last updated: February 05, 2026</sub>
 <!--END_SECTION:contributions-->
