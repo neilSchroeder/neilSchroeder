@@ -30,7 +30,7 @@
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🐍 | [open-data-registry](https://github.com/awslabs/open-data-registry) | 1 PRs | `Python`
 | 🐍 | [open-data-registry](https://github.com/neilSchroeder/open-data-registry) | activity | `Python`
-| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 5 PRs | `Python`
+| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 4 PRs | `Python`
 
 <sub>Last updated: February 16, 2026</sub>
 <!--END_SECTION:contributions-->
