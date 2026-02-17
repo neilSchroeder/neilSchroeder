@@ -21,18 +21,7 @@
 ### 📊 Recent Contributions
 
 <!--START_SECTION:contributions-->
-| | Repository | Activity | Language |
-|---|---|---|---|
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 2 PRs | `Jupyter Notebook`
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 5 PRs | `Python`
-| 🔷 | [Browzarr]() | activity | `TypeScript`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
-| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
-| 🐍 | [open-data-registry](https://github.com/awslabs/open-data-registry) | 1 PRs | `Python`
-| 🐍 | [open-data-registry](https://github.com/neilSchroeder/open-data-registry) | activity | `Python`
-| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 4 PRs | `Python`
-
-<sub>Last updated: February 17, 2026</sub>
+_No recent public contributions found._
 <!--END_SECTION:contributions-->
 
 </td>
