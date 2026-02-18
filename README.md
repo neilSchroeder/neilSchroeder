@@ -32,7 +32,7 @@
 | 🐍 | [open-data-registry](https://github.com/neilSchroeder/open-data-registry) | activity | `Python`
 | 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 4 PRs | `Python`
 
-<sub>Last updated: February 17, 2026</sub>
+<sub>Last updated: February 18, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
