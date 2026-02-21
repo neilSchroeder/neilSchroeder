@@ -30,9 +30,9 @@
 | 🔷 | [Browzarr]() | activity | `TypeScript`
 | 🐍 | [open-data-registry](https://github.com/awslabs/open-data-registry) | 1 PRs | `Python`
 | 🐍 | [open-data-registry](https://github.com/neilSchroeder/open-data-registry) | activity | `Python`
-| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 4 PRs | `Python`
+| 🐍 | [lithops](https://github.com/lithops-cloud/lithops) | 2 PRs | `Python`
 
-<sub>Last updated: February 20, 2026</sub>
+<sub>Last updated: February 21, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
