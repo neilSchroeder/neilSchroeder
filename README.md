@@ -28,7 +28,6 @@
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
 | 🔷 | [Browzarr]() | activity | `TypeScript`
-| 🐍 | [open-data-registry]() | activity | `Python`
 
 <sub>Last updated: February 23, 2026</sub>
 <!--END_SECTION:contributions-->
