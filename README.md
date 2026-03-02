@@ -23,13 +23,13 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
 | 🔷 | [Browzarr]() | activity | `TypeScript`
 
-<sub>Last updated: March 01, 2026</sub>
+<sub>Last updated: March 02, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
