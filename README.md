@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐚 | [skills]() | activity | `Shell`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
+| 🐚 | [skills]() | activity | `Shell`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [lithops]() | activity | `Python`
