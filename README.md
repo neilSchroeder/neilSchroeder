@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🟨 | [everything-claude-code]() | activity | `JavaScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
 | 🐚 | [skills]() | activity | `Shell`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
