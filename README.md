@@ -23,11 +23,11 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [claw-code]() | activity | `Rust`
 | 🟨 | [everything-claude-code]() | activity | `JavaScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
 | 🐚 | [skills]() | activity | `Shell`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [lithops]() | activity | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
