@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [claw-code]() | activity | `Rust`
 | 🟨 | [everything-claude-code]() | activity | `JavaScript`
