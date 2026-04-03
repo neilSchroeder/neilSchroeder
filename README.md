@@ -30,9 +30,8 @@
 | 🐚 | [skills]() | activity | `Shell`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [lithops]() | activity | `Python`
-| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 
-<sub>Last updated: April 02, 2026</sub>
+<sub>Last updated: April 03, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
