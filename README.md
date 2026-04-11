@@ -30,7 +30,7 @@
 | 📁 | [claw-code]() | activity | `Rust`
 | 🟨 | [everything-claude-code]() | activity | `JavaScript`
 | 🐚 | [skills]() | activity | `Shell`
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
+| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 
 <sub>Last updated: April 11, 2026</sub>
 <!--END_SECTION:contributions-->
