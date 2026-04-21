@@ -23,7 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 🐍 | [graphify]() | activity | `Python`
 | 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
