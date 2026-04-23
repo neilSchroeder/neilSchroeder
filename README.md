@@ -23,11 +23,11 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 🐍 | [graphify]() | activity | `Python`
 | 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [claw-code]() | activity | `Rust`
 | 🟨 | [everything-claude-code]() | activity | `JavaScript`
 | 🐚 | [skills]() | activity | `Shell`
