@@ -21,17 +21,7 @@
 ### 📊 Recent Contributions
 
 <!--START_SECTION:contributions-->
-| | Repository | Activity | Language |
-|---|---|---|---|
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
-| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
-| 🐍 | [graphify]() | activity | `Python`
-| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
-| 📁 | [claw-code]() | activity | `Rust`
-| 🟨 | [everything-claude-code]() | activity | `JavaScript`
-
-<sub>Last updated: April 30, 2026</sub>
+_No recent public contributions found._
 <!--END_SECTION:contributions-->
 
 </td>
