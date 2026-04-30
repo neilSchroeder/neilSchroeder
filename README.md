@@ -21,7 +21,12 @@
 ### 📊 Recent Contributions
 
 <!--START_SECTION:contributions-->
-_No recent public contributions found._
+| | Repository | Activity | Language |
+|---|---|---|---|
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
+| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
+
+<sub>Last updated: April 30, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
