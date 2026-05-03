@@ -27,7 +27,6 @@
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [graphify]() | activity | `Python`
-| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 
 <sub>Last updated: May 03, 2026</sub>
 <!--END_SECTION:contributions-->
