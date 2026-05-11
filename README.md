@@ -27,7 +27,7 @@
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 
-<sub>Last updated: May 10, 2026</sub>
+<sub>Last updated: May 11, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
