@@ -27,7 +27,7 @@
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 
-<sub>Last updated: May 12, 2026</sub>
+<sub>Last updated: May 13, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
