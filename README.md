@@ -24,8 +24,8 @@
 | | Repository | Activity | Language |
 |---|---|---|---|
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
+| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
-| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 
 <sub>Last updated: May 14, 2026</sub>
 <!--END_SECTION:contributions-->
