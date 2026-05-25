@@ -25,7 +25,7 @@
 |---|---|---|---|
 | 🐍 | [cms-ecal-scales-and-smearings](https://github.com/neilSchroeder/cms-ecal-scales-and-smearings) | activity | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 
 <sub>Last updated: May 25, 2026</sub>
