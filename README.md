@@ -28,7 +28,7 @@
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 
-<sub>Last updated: May 29, 2026</sub>
+<sub>Last updated: May 30, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
