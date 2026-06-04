@@ -28,7 +28,7 @@
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 
-<sub>Last updated: June 03, 2026</sub>
+<sub>Last updated: June 04, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
