@@ -24,8 +24,8 @@
 | | Repository | Activity | Language |
 |---|---|---|---|
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
-| 🐍 | [cms-ecal-scales-and-smearings](https://github.com/neilSchroeder/cms-ecal-scales-and-smearings) | activity | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 3 PRs | `Jupyter Notebook`
+| 🐍 | [cms-ecal-scales-and-smearings](https://github.com/neilSchroeder/cms-ecal-scales-and-smearings) | activity | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 
 <sub>Last updated: June 04, 2026</sub>
