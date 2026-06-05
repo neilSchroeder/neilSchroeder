@@ -28,7 +28,7 @@
 | 🐍 | [cms-ecal-scales-and-smearings](https://github.com/neilSchroeder/cms-ecal-scales-and-smearings) | activity | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 
-<sub>Last updated: June 04, 2026</sub>
+<sub>Last updated: June 05, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
