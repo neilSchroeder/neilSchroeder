@@ -29,7 +29,7 @@
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | 1 PRs | `Jupyter Notebook`
 | 🐍 | [cms-ecal-scales-and-smearings](https://github.com/neilSchroeder/cms-ecal-scales-and-smearings) | activity | `Python`
 
-<sub>Last updated: June 16, 2026</sub>
+<sub>Last updated: June 17, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
