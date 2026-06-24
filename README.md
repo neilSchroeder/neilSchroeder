@@ -30,7 +30,7 @@
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 
-<sub>Last updated: June 23, 2026</sub>
+<sub>Last updated: June 24, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
