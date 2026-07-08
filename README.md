@@ -23,11 +23,11 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
+| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
+| 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🐍 | [historical-obs-platform]() | activity | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 
 <sub>Last updated: July 08, 2026</sub>
 <!--END_SECTION:contributions-->
