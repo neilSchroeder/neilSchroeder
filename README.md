@@ -27,9 +27,8 @@
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [historical-obs-platform]() | activity | `Python`
-| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 
-<sub>Last updated: July 09, 2026</sub>
+<sub>Last updated: July 10, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
