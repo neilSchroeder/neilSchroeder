@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
