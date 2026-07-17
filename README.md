@@ -23,14 +23,14 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 📁 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs |
-| 📁 | [earthkit]() | activity |
-| 📁 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity |
-| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity |
-| 📁 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs |
-| 📁 | [historical-obs-platform]() | activity |
+| 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
+| 🐍 | [earthkit]() | activity | `Python`
+| 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
+| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
+| 🐍 | [historical-obs-platform]() | activity | `Python`
 
-<sub>Last updated: July 16, 2026</sub>
+<sub>Last updated: July 17, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
