@@ -27,10 +27,10 @@
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
 | 🐍 | [earthkit]() | activity | `Python`
 | 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
 | 🐍 | [historical-obs-platform]() | activity | `Python`
 
-<sub>Last updated: July 17, 2026</sub>
+<sub>Last updated: July 18, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
