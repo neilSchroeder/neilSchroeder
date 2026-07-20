@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
 | 🐍 | [earthkit]() | activity | `Python`
