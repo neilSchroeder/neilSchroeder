@@ -30,7 +30,6 @@
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
 | 🐍 | [earthkit]() | activity | `Python`
-| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 
 <sub>Last updated: August 10, 2026</sub>
 <!--END_SECTION:contributions-->
