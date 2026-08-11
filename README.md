@@ -23,10 +23,10 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🐍 | [climakitaegui]() | activity | `Python`
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
+| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
+| 🐍 | [climakitaegui]() | activity | `Python`
 | 🐍 | [intake-esm-tools]() | activity | `Python`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
