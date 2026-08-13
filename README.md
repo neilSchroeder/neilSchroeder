@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🌐 | [cal-adapt-guidance]() | activity | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
@@ -30,7 +31,6 @@
 | 🐍 | [intake-esm-tools]() | activity | `Python`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
-| 🐍 | [earthkit]() | activity | `Python`
 
 <sub>Last updated: August 13, 2026</sub>
 <!--END_SECTION:contributions-->
