@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🌐 | [cal-adapt-guidance]() | activity | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
@@ -30,7 +31,6 @@
 | 🐍 | [climakitaegui]() | activity | `Python`
 | 🐍 | [intake-esm-tools]() | activity | `Python`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
-| 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
 
 <sub>Last updated: August 14, 2026</sub>
 <!--END_SECTION:contributions-->
