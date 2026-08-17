@@ -25,7 +25,7 @@
 |---|---|---|---|
 | 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
-| 📁 | [cal-adapt-guidance]() | activity |
+| 🌐 | [cal-adapt-guidance]() | activity | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [climakitaegui]() | activity | `Python`
