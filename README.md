@@ -23,9 +23,9 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
-| 🌐 | [cal-adapt-guidance]() | activity | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [climakitaegui]() | activity | `Python`
