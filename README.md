@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🐍 | [personal-projects](https://github.com/neilSchroeder/personal-projects) | activity | `Python`
@@ -30,7 +31,6 @@
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 🐍 | [climakitaegui]() | activity | `Python`
 | 🐍 | [intake-esm-tools]() | activity | `Python`
-| 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 
 <sub>Last updated: August 18, 2026</sub>
 <!--END_SECTION:contributions-->
