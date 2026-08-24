@@ -23,13 +23,13 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | activity | `Python`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🐍 | [personal-projects]() | activity | `Python`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [climakitaegui]() | activity | `Python`
 
 <sub>Last updated: August 24, 2026</sub>
