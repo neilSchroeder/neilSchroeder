@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [tango](https://github.com/neilSchroeder/tango) | activity | `TypeScript`
 | 📁 | [caladapt-website-2021]() | activity | `Svelte`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
@@ -30,7 +31,6 @@
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
 | 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
-| 🐍 | [personal-projects]() | activity | `Python`
 
 <sub>Last updated: August 29, 2026</sub>
 <!--END_SECTION:contributions-->
