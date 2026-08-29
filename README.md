@@ -32,7 +32,7 @@
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🐍 | [personal-projects]() | activity | `Python`
 
-<sub>Last updated: August 28, 2026</sub>
+<sub>Last updated: August 29, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
