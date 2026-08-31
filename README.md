@@ -32,7 +32,7 @@
 | 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 
-<sub>Last updated: August 30, 2026</sub>
+<sub>Last updated: August 31, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
