@@ -23,7 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🔷 | [tango](https://github.com/neilSchroeder/tango) | activity | `TypeScript`
+| 🔷 | [tango](https://github.com/neilSchroeder/tango) | 1 PRs | `TypeScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [caladapt-website-2021]() | activity | `Svelte`
