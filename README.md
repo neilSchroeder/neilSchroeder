@@ -23,9 +23,9 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
 | 🔷 | [tango](https://github.com/neilSchroeder/tango) | 1 PRs | `TypeScript`
-| 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 📁 | [caladapt-website-2021]() | activity | `Svelte`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
