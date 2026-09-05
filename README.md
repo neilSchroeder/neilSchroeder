@@ -28,7 +28,7 @@
 | 🔷 | [tango](https://github.com/neilSchroeder/tango) | 1 PRs | `TypeScript`
 | 📁 | [caladapt-website-2021]() | activity | `Svelte`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
-| 📓 | [cae-notebooks](https://github.com/cal-adapt/cae-notebooks) | activity | `Jupyter Notebook`
+| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 📁 | [neilSchroeder.github.io](https://github.com/neilSchroeder/neilSchroeder.github.io) | activity | `SCSS`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 
