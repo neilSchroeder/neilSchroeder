@@ -23,7 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
+| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 1 PRs | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
