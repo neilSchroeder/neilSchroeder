@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 📊 | [vscode-theme-bladerunner](https://github.com/neilSchroeder/vscode-theme-bladerunner) | activity | `R`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 8 PRs | `Python`
+| 📊 | [vscode-theme-bladerunner](https://github.com/neilSchroeder/vscode-theme-bladerunner) | activity | `R`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 1 PRs | `HTML`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
