@@ -23,11 +23,11 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 2 PRs | `HTML`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 8 PRs | `Python`
 | 📊 | [vscode-theme-bladerunner](https://github.com/neilSchroeder/vscode-theme-bladerunner) | activity | `R`
-| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 1 PRs | `HTML`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🔷 | [tango](https://github.com/neilSchroeder/tango) | 1 PRs | `TypeScript`
 | 📁 | [caladapt-website-2021]() | activity | `Svelte`
