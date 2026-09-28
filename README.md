@@ -30,7 +30,6 @@
 | 📊 | [vscode-theme-bladerunner](https://github.com/neilSchroeder/vscode-theme-bladerunner) | activity | `R`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 🔷 | [tango](https://github.com/neilSchroeder/tango) | 1 PRs | `TypeScript`
-| 📁 | [caladapt-website-2021]() | activity | `Svelte`
 
 <sub>Last updated: September 28, 2026</sub>
 <!--END_SECTION:contributions-->
