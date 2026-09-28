@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 2 PRs | `HTML`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
