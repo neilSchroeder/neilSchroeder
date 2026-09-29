@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 2 PRs | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 7 PRs | `Python`
+| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 2 PRs | `HTML`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
