@@ -25,12 +25,12 @@
 |---|---|---|---|
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 7 PRs | `Python`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
+| 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 2 PRs | `HTML`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
 | 📊 | [vscode-theme-bladerunner](https://github.com/neilSchroeder/vscode-theme-bladerunner) | activity | `R`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
-| 🔷 | [tango](https://github.com/neilSchroeder/tango) | 1 PRs | `TypeScript`
 
 <sub>Last updated: October 01, 2026</sub>
 <!--END_SECTION:contributions-->
