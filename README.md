@@ -25,7 +25,7 @@
 |---|---|---|---|
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 2 PRs | `HTML`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 5 PRs | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 4 PRs | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
