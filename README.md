@@ -28,7 +28,7 @@
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | 1 PRs | `TypeScript`
 | 🟨 | [nasa-werk-viewer](https://github.com/neilSchroeder/nasa-werk-viewer) | activity | `JavaScript`
-| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 2 PRs | `HTML`
+| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 1 PRs | `HTML`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
 
