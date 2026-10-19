@@ -26,13 +26,13 @@
 | 🟨 | [nasa-werk-viewer](https://github.com/neilSchroeder/nasa-werk-viewer) | activity | `JavaScript`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
-| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 3 PRs | `Python`
+| 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 2 PRs | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 1 PRs | `HTML`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
 
-<sub>Last updated: October 18, 2026</sub>
+<sub>Last updated: October 19, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
