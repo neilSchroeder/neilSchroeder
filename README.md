@@ -30,7 +30,6 @@
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | 1 PRs | `HTML`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
-| 📓 | [cae-archives]() | activity | `Jupyter Notebook`
 
 <sub>Last updated: October 24, 2026</sub>
 <!--END_SECTION:contributions-->
