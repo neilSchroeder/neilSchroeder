@@ -31,7 +31,7 @@
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 
-<sub>Last updated: October 25, 2026</sub>
+<sub>Last updated: October 26, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
