@@ -29,7 +29,6 @@
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
-| 📓 | [cae-notebooks]() | activity | `Jupyter Notebook`
 
 <sub>Last updated: October 28, 2026</sub>
 <!--END_SECTION:contributions-->
