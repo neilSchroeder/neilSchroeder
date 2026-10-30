@@ -30,7 +30,7 @@
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 
-<sub>Last updated: October 29, 2026</sub>
+<sub>Last updated: October 30, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
