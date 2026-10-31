@@ -23,14 +23,14 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🌐 | [cal-adapt-guidance]() | activity | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
 | 🔷 | [cal-adapt-de-website]() | activity | `TypeScript`
 | 🟨 | [nasa-werk-viewer](https://github.com/neilSchroeder/nasa-werk-viewer) | activity | `JavaScript`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
-| 🌐 | [cal-adapt-guidance]() | activity | `HTML`
 
-<sub>Last updated: October 30, 2026</sub>
+<sub>Last updated: October 31, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
