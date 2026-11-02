@@ -23,8 +23,8 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
-| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
+| 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | activity | `TypeScript`
 | 🟨 | [nasa-werk-viewer](https://github.com/neilSchroeder/nasa-werk-viewer) | activity | `JavaScript`
 | 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
