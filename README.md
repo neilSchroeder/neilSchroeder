@@ -23,6 +23,7 @@
 <!--START_SECTION:contributions-->
 | | Repository | Activity | Language |
 |---|---|---|---|
+| 🐍 | [cms-ecal-scales-and-smearings](https://github.com/neilSchroeder/cms-ecal-scales-and-smearings) | activity | `Python`
 | 📓 | [cae-archives]() | activity | `Jupyter Notebook`
 | 🔷 | [cal-adapt-de-website](https://github.com/cal-adapt/cal-adapt-de-website) | activity | `TypeScript`
 | 📁 | [icechunk]() | activity | `Rust`
@@ -30,7 +31,6 @@
 | 🐍 | [climakitae](https://github.com/cal-adapt/climakitae) | 1 PRs | `Python`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🟨 | [nasa-werk-viewer](https://github.com/neilSchroeder/nasa-werk-viewer) | activity | `JavaScript`
-| 🐍 | [hdp-2.0](https://github.com/Eagle-Rock-Analytics/hdp-2.0) | activity | `Python`
 
 <sub>Last updated: November 08, 2026</sub>
 <!--END_SECTION:contributions-->
