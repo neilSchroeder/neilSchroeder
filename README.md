@@ -32,7 +32,7 @@
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
 | 🟨 | [nasa-werk-viewer](https://github.com/neilSchroeder/nasa-werk-viewer) | activity | `JavaScript`
 
-<sub>Last updated: November 10, 2026</sub>
+<sub>Last updated: November 11, 2026</sub>
 <!--END_SECTION:contributions-->
 
 </td>
