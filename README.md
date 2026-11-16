@@ -30,7 +30,6 @@
 | 📁 | [icechunk]() | activity | `Rust`
 | 📁 | [jupyterhub-tofu](https://github.com/Eagle-Rock-Analytics/jupyterhub-tofu) | activity | `HCL`
 | 🌐 | [cal-adapt-guidance](https://github.com/cal-adapt/cal-adapt-guidance) | activity | `HTML`
-| 🟨 | [nasa-werk-viewer](https://github.com/neilSchroeder/nasa-werk-viewer) | activity | `JavaScript`
 
 <sub>Last updated: November 16, 2026</sub>
 <!--END_SECTION:contributions-->
